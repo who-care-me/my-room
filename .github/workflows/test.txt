@@ -1,2 +1,1 @@
-information
-s
+https://zhuanlan.zhihu.com/p/36173202 下划线的用处-来自python
